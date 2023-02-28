@@ -33,6 +33,17 @@
 12. when you delete a date you are going to need to press home and logout
     then login again(will fix later!)
 
+# the tim cli
+
+## Setup
+
+1. clone down
+2. `cd tim-app`
+3. `cd server`
+4. run the following in the terminal: `pipenv install && pipenv shell`
+5. run `python tim_cli.py` to run the cli
+6. If there are errors try to solve it, they are most likely dependency issues. if you can't just create a new pr.
+
 ## Note
 
-This app is buggy but works. I will update this sometime in the future. Enjoy!
+The app and the cli are a bit buggy, but works. I will update this sometime in the future. Enjoy!
