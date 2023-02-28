@@ -18,6 +18,7 @@ function Navbar({ user, onLogout }) {
           <br />
           <Link to="/dates">Dates</Link>
           <br />
+          <Link to="/dates/new">Add Date</Link>
           <br />
           <br />
           <button onClick={handleLogout}>Logout</button>
