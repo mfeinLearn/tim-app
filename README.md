@@ -1,5 +1,11 @@
 # the-tim-app
 
+Welcome to TIM! The Trusted Ideal Mate app.
+
+In a world where finding the perfect match can be daunting, we understand the importance of prioritizing safety. While the concept of an ideal mate might be subjective, our application aims to make your dating experience safer and more secure. We achieve this by introducing a feature that sends essential information about your date – such as images, names, and more – to a trusted person or friend. This extra layer of precaution ensures that when you embark on a date with a potential match, someone you trust is aware of your plans.
+
+We believe that safety should be an integral part of your dating journey. By incorporating the Trusted Ideal Mate app into your safety protocol, you can approach your dates with increased confidence and peace of mind.
+
 ## Setup
 
 1. clone down
@@ -46,4 +52,4 @@
 
 ## Note
 
-The app and the cli are a bit buggy, but works. I will update this sometime in the future. Enjoy!
+The app and the CLI are a bit buggy and NOT DONE YET, but they work. The main functionality works locally only. I will update this sometime in the future. Enjoy!
